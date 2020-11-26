@@ -48,7 +48,11 @@ h3 {
   font-family: "Montserrat";
   height: 500px;
 }
-
+.title {
+  position: relative;
+  left: 200px;
+  color: #0077c7;
+}
 .footer {
   position: fixed;
   left: 0;
